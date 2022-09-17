@@ -11,7 +11,7 @@
     "packs": [
         {
             "name": "items",
-            "label": "Melf's Adventures Compendiums items",
+            "label": "Items (Melf's Adventures Compendiums)",
             "path": "packs/items.db",
             "system": "dnd5e",    
             "entity": "Item",
