@@ -13,6 +13,7 @@
             "name": "items",
             "label": "Melf's Adventures Compendiums items",
             "path": "packs/items.db",
+            "system": "dnd5e",    
             "entity": "Item",
             "module": "melfs-adventures-compendiums"
         }
