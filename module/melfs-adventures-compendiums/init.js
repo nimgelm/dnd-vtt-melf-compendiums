@@ -1,0 +1,1 @@
+console.log("Melf's Adventures Compendiums release deployed!")
