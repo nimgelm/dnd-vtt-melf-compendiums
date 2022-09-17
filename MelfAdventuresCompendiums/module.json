@@ -1,0 +1,20 @@
+{   
+    "id": "melfs-adventures-compendiums",   
+    "title": "Melf's Adventures Compendiums",
+    "description": "Implementing Melf's Compendiums in FoundryVTT",   
+    "author": "quoren",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "items",
+            "label": "Melf's Adventures Compendiums items",
+            "path": "packs/items.db",
+            "entity": "Item",
+            "module": "melfs-adventures-compendiums"
+        }
+    ]
+}
