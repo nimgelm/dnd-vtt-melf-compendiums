@@ -5,7 +5,7 @@
     "author": "quoren",
     "version": "1.0.0",
     "compatibility": {
-        "minimum": "9",
+        "minimum": "10",
         "verified": "10"
     },
     "packs": [
