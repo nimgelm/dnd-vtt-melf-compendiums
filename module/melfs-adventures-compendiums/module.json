@@ -23,7 +23,7 @@
         }
     ],
 	"url": "https://github.com/nimgelm/dnd-vtt-melf-compendiums",
-	"manifest": "",
-	"download": ""
+	"manifest": "https://raw.githubusercontent.com/nimgelm/dnd-vtt-melf-compendiums/main/module/melfs-adventures-compendiums/module.json",
+	"download": "https://github.com/nimgelm/dnd-vtt-melf-compendiums/releases/download/v0.0.3/melfs-adventures-compendiums_003.zip"
 
 }
