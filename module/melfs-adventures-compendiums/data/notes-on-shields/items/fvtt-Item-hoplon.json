@@ -1,0 +1,145 @@
+{
+  "_id": "mac-nos-items-10006",
+  "name": "Hoplon",
+  "type": "weapon",
+  "img": "icons/equipment/shield/buckler-wooden-boss-lightning.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Hoplon is an uncommon standard shield. It is similar to the Round shield in terms of protection, but has more versatility around offensive maneuvers.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "MaC:NoS",
+    "quantity": 1,
+    "weight": 8,
+    "price": 29,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "attackBonus": "0",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d8 + @mod",
+          ""
+        ]
+      ],
+      "versatile": "1d10 + @mod"
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "simpleM",
+    "baseItem": "",
+    "properties": {
+      "ada": false,
+      "amm": false,
+      "fin": false,
+      "fir": false,
+      "foc": false,
+      "hvy": false,
+      "lgt": false,
+      "lod": false,
+      "mgc": false,
+      "rch": false,
+      "rel": false,
+      "ret": false,
+      "sil": false,
+      "spc": false,
+      "thr": false,
+      "two": false,
+      "ver": true
+    },
+    "proficient": true
+  },
+  "effects": [
+    {
+      "label": "Shield",
+      "icon": "icons/equipment/shield/buckler-iron-cross-gray.webp",
+      "origin": "Item.udkVu29rTDc79mZW",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "UVdQvF2Mov9VGqjJ",
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": 20
+        }
+      ],
+      "tint": null,
+      "transfer": true,
+      "flags": {
+      }
+    }
+  ],
+  "flags": {
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.2",
+    "coreVersion": "10.285",
+    "createdTime": 1663446470996,
+    "modifiedTime": 1663509535212,
+    "lastModifiedBy": "Xc6iss6TbYCuq8ah"
+  }
+}

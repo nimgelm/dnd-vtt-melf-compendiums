@@ -1,0 +1,145 @@
+{
+  "_id": "mac-nos-items-10013",
+  "name": "Round",
+  "type": "weapon",
+  "img": "icons/equipment/shield/round-wooden-pointed-boss-steel-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p>The traditional shield, most soldiers, warriors and fighters use.</p><p>It is a standard category shield, which allows moderate offensive damage.</p><p><strong>Note.</strong> This is the rebranding of the traditional Shield from 5e.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "MaC:NoS",
+    "quantity": 1,
+    "weight": 6,
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "attackBonus": "0",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d6 + @mod",
+          ""
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "simpleM",
+    "baseItem": "",
+    "properties": {
+      "ada": false,
+      "amm": false,
+      "fin": false,
+      "fir": false,
+      "foc": false,
+      "hvy": false,
+      "lgt": false,
+      "lod": false,
+      "mgc": false,
+      "rch": false,
+      "rel": false,
+      "ret": false,
+      "sil": false,
+      "spc": false,
+      "thr": false,
+      "two": false,
+      "ver": false
+    },
+    "proficient": true
+  },
+  "effects": [
+    {
+      "label": "Shield",
+      "icon": "icons/equipment/shield/buckler-iron-cross-gray.webp",
+      "origin": "Item.udkVu29rTDc79mZW",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "UVdQvF2Mov9VGqjJ",
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": 20
+        }
+      ],
+      "tint": null,
+      "transfer": true,
+      "flags": {
+      }
+    }
+  ],
+  "flags": {
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.2",
+    "coreVersion": "10.285",
+    "createdTime": 1663446470996,
+    "modifiedTime": 1663466245500,
+    "lastModifiedBy": "Xc6iss6TbYCuq8ah"
+  }
+}

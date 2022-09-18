@@ -1,0 +1,145 @@
+{
+  "_id": "mac-nos-items-10003",
+  "name": "Bulwark",
+  "type": "weapon",
+  "img": "icons/equipment/shield/heater-steel-segmented-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Bulwark is the perfect protector shield. It has great defensive capabilites, on par with the Pavise, and offensive ones.</p><p>For that reason, only master artisans have been able to build them without flaws, which makes them extremely rare and expensive as well. Because of that, most ones that exist are displayed in private collections of absurdly wealthy people.</p><p><strong style=\"box-sizing:border-box;user-select:text;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><span style=\"font-family:Signika, sans-serif\"><span style=\"font-family:Signika, sans-serif\">Special. </span></span></strong><span style=\"font-family:Signika, sans-serif\"><span style=\"color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">Cover(3/4). As an action you can stand your ground as a protective element for everything behind the shield. You create a protection area of a line of 15ft. behind the shield, which provide a certain level of cover. This effect also works for spell attacks that have an area of effect of a line or cone.</span></span></p><p><strong style=\"box-sizing:border-box;user-select:text;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><span style=\"font-family:Signika, sans-serif\"><span style=\"font-family:Signika, sans-serif\">Special. </span></span></strong><span style=\"font-family:Signika, sans-serif\"><span style=\"color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">Bashful. </span></span>This shield was built with some offensive maneuvers in mind. If you perform a Shove attack with the shield, you can add a bonus of +2 to the contested ability check.</p><hr /><p><strong>Note.</strong> As a protector shield, the wielder must have a Strength ability score of 13 or higher and imposes disadvantage on Dexterity (Stealth) checks.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "MaC:NoS",
+    "quantity": 1,
+    "weight": 20,
+    "price": 225,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "str",
+    "actionType": "mwak",
+    "attackBonus": "0",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "2d8 + @mod",
+          ""
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "simpleM",
+    "baseItem": "",
+    "properties": {
+      "ada": false,
+      "amm": false,
+      "fin": false,
+      "fir": false,
+      "foc": false,
+      "hvy": true,
+      "lgt": false,
+      "lod": false,
+      "mgc": false,
+      "rch": false,
+      "rel": false,
+      "ret": false,
+      "sil": false,
+      "spc": true,
+      "thr": false,
+      "two": true,
+      "ver": false
+    },
+    "proficient": true
+  },
+  "effects": [
+    {
+      "label": "Shield",
+      "icon": "icons/equipment/shield/buckler-iron-cross-gray.webp",
+      "origin": "Item.udkVu29rTDc79mZW",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "UVdQvF2Mov9VGqjJ",
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "mode": 2,
+          "value": "3",
+          "priority": 20
+        }
+      ],
+      "tint": null,
+      "transfer": true,
+      "flags": {
+      }
+    }
+  ],
+  "flags": {
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.2",
+    "coreVersion": "10.285",
+    "createdTime": 1663446470996,
+    "modifiedTime": 1663511119325,
+    "lastModifiedBy": "Xc6iss6TbYCuq8ah"
+  }
+}

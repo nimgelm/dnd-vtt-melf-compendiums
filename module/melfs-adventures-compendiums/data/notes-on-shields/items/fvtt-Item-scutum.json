@@ -1,0 +1,145 @@
+{
+  "_id": "mac-nos-items-10014",
+  "name": "Scutum",
+  "type": "weapon",
+  "img": "icons/equipment/shield/Scutum-steel-worn.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Scutum is a standard type of shield but designed by expert combatants - it has all the good properties one might need in battle, providing optimized protection, allowing for cover without being too heavy or requiring two hands to wield it.</p><p>Because of that it is a very rare shield to encounter (for a non-magical item).</p><p><strong>Special. </strong>Cover(half). As an action you can stand your ground as a protective element for everything behind the shield. You create a protection area of a line of 15ft. behind the shield, which provide a certain level of cover. This effect also works for spell attacks that have an area of effect of a line or cone.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "MaC:NoS",
+    "quantity": 1,
+    "weight": 12,
+    "price": 181,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "attackBonus": "0",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d8 + @mod",
+          ""
+        ]
+      ],
+      "versatile": "1d10 + @mod"
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "martialM",
+    "baseItem": "",
+    "properties": {
+      "ada": false,
+      "amm": false,
+      "fin": false,
+      "fir": false,
+      "foc": false,
+      "hvy": false,
+      "lgt": false,
+      "lod": false,
+      "mgc": false,
+      "rch": false,
+      "rel": false,
+      "ret": false,
+      "sil": false,
+      "spc": true,
+      "thr": false,
+      "two": false,
+      "ver": true
+    },
+    "proficient": true
+  },
+  "effects": [
+    {
+      "label": "Shield",
+      "icon": "icons/equipment/shield/buckler-iron-cross-gray.webp",
+      "origin": "Item.tiTe7wYXdTbQiRZV",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "ZeXJlJZR64F3vjZA",
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "mode": 2,
+          "value": "3",
+          "priority": 20
+        }
+      ],
+      "tint": null,
+      "transfer": true,
+      "flags": {
+      }
+    }
+  ],
+  "flags": {
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.2",
+    "coreVersion": "10.285",
+    "createdTime": 1663414305295,
+    "modifiedTime": 1663509297281,
+    "lastModifiedBy": "Xc6iss6TbYCuq8ah"
+  }
+}
