@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/kite-wooden-boss-steel-blue.webp",
   "system": {
     "description": {
-      "value": "<p>The Parma is a deflector shield build with bashing in mind.</p><p>It does not protect as much as the Oval shield, but allows for other type of offensive maneuvers.</p><p><strong>Special.</strong> (Bashful) This shield was built with some offensive maneuvers in mind. If you perform a Shove attack with the shield, you can add a bonus of +2 to the contested ability check.</p>",
+      "value": "<p>The Parma is a deflector shield build with bashing in mind.</p><p>It does not protect as much as the Oval shield, but allows for other type of offensive maneuvers.</p><p><strong>Special.</strong> (Bashful) This shield was built with some offensive maneuvers in mind. If you perform a Shove attack with the shield, you can add a bonus of +2 to the contested ability check.</p><hr /><p>Wielding the <i>Parma</i> provides a +1 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
       "chat": "",
       "unidentified": ""
     },

@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/kite-bronze-boss-brown.webp",
   "system": {
     "description": {
-      "value": "<p>This uncommon standard shield is designed to be a middle ground between the Kite and the Hoplon - provides better cover than the later while being more offensively versatile than the first.</p>",
+      "value": "<p>This uncommon standard shield is designed to be a middle ground between the Kite and the Hoplon - provides better cover than the later while being more offensively versatile than the first.</p><hr /><p>Wielding the <i>Sentinel</i> shield provides a +3 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
       "chat": "",
       "unidentified": ""
     },

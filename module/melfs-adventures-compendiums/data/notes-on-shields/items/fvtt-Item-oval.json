@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/oval-wooden-boss-bronze.webp",
   "system": {
     "description": {
-      "value": "<p>An evolved version of the Rotella.</p><p>This deflector shield, provides a bit more protection than its counterpart while still being abundant, and still cheap, just not as much as the Rotella.</p>",
+      "value": "<p>An evolved version of the Rotella.</p><p>This deflector shield, provides a bit more protection than its counterpart while still being abundant, and still cheap, just not as much as the Rotella.</p><hr /><p>Wielding the <i>Oval</i> shield provides a +2 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
       "chat": "",
       "unidentified": ""
     },

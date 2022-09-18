@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/targe-wooden-boss-steel-brown.webp",
   "system": {
     "description": {
-      "value": "<p>The Targe is a rare standard shield. It does not protect as much as teh Kite or Sentinel shields, but is balanced enough to be thrown as a weapon.</p><p></p><p>If you throw the shield, you lose the bonus to Armor Class it was providing.</p>",
+      "value": "<p>The Targe is a rare standard shield. It does not protect as much as teh Kite or Sentinel shields, but is balanced enough to be thrown as a weapon.</p><p></p><p>If you throw the shield, you lose the bonus to Armor Class it was providing.</p><hr /><p>Wielding the <i>Targe</i> provides a +2 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
       "chat": "",
       "unidentified": ""
     },

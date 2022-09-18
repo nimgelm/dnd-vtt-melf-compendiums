@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/heater-steel-worn.webp",
   "system": {
     "description": {
-      "value": "<p>The Heater is a common standard shield. It does have advantages over the Round shield, as it allows for some offensive maneuvers, but it is also more expensive.</p><p><strong>Special.</strong> (Bashful) This shield was built with some offensive maneuvers in mind. If you perform a Shove attack with the shield, you can add a bonus of +2 to the contested ability check.</p>",
+      "value": "<p>The Heater is a common standard shield. It does have advantages over the Round shield, as it allows for some offensive maneuvers, but it is also more expensive.</p><p><strong>Special.</strong> (Bashful) This shield was built with some offensive maneuvers in mind. If you perform a Shove attack with the shield, you can add a bonus of +2 to the contested ability check.</p><hr /><p>Wielding the <i>Heater</i> provides a +2 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
       "chat": "",
       "unidentified": ""
     },

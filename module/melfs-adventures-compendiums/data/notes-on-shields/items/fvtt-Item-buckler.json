@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/buckler-wooden-round-hole.webp",
   "system": {
     "description": {
-      "value": "<p>The Buckler is an uncommon deflector shield. It does not protect as much as other shields of its category, but is balanced enough to be thrown as a weapon.</p><p></p><p>If you throw the shield, you lose the bonus to Armor Class it was providing.</p>",
+      "value": "<p>The Buckler is an uncommon deflector shield. It does not protect as much as other shields of its category, but is balanced enough to be thrown as a weapon.</p><p></p><p>If you throw the shield, you lose the bonus to Armor Class it was providing.<hr />Wielding the <i>Buckler</i> provides a +1 bonus to your Armor Class. You can only benefit from only one shield at a time.</p>",
       "chat": "",
       "unidentified": ""
     },

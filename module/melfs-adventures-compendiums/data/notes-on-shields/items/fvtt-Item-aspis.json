@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/buckler-wooden-boss-steel.webp",
   "system": {
     "description": {
-      "value": "<p>The Aspis is the hardest deflector shield to find around. It provides better protection than other shields of the same category and also allows for some offensive maneuvers.</p><p><strong>Special.</strong> (Bashful) This shield was built with some offensive maneuvers in mind. If you perform a Shove attack with the shield, you can add a bonus of +2 to the contested ability check.</p>",
+      "value": "<p>The Aspis is the hardest deflector shield to find around. It provides better protection than other shields of the same category and also allows for some offensive maneuvers.</p><p><strong>Special.</strong> (Bashful) This shield was built with some offensive maneuvers in mind. If you perform a Shove attack with the shield, you can add a bonus of +2 to the contested ability check.<hr />Wielding the <i>Aspis</i> provides a +2 bonus to your Armor Class. You can only benefit from only one shield at a time.</p>",
       "chat": "",
       "unidentified": ""
     },

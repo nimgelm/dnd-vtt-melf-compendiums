@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/Scutum-steel-worn.webp",
   "system": {
     "description": {
-      "value": "<p>The Scutum is a standard type of shield but designed by expert combatants - it has all the good properties one might need in battle, providing optimized protection, allowing for cover without being too heavy or requiring two hands to wield it.</p><p>Because of that it is a very rare shield to encounter (for a non-magical item).</p><p><strong>Special. </strong>Cover(half). As an action you can stand your ground as a protective element for everything behind the shield. You create a protection area of a line of 15ft. behind the shield, which provide a certain level of cover. This effect also works for spell attacks that have an area of effect of a line or cone.</p>",
+      "value": "<p>The Scutum is a standard type of shield but designed by expert combatants - it has all the good properties one might need in battle, providing optimized protection, allowing for cover without being too heavy or requiring two hands to wield it.</p><p>Because of that it is a very rare shield to encounter (for a non-magical item).</p><p><strong>Special. </strong>Cover(half). As an action you can stand your ground as a protective element for everything behind the shield. You create a protection area of a line of 15ft. behind the shield, which provide a certain level of cover. This effect also works for spell attacks that have an area of effect of a line or cone.</p><hr /><p>Wielding the <i>Scutum</i> provides a +3 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
       "chat": "",
       "unidentified": ""
     },

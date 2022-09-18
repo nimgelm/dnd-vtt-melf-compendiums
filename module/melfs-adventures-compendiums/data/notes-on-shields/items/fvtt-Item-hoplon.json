@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/buckler-wooden-boss-lightning.webp",
   "system": {
     "description": {
-      "value": "<p>The Hoplon is an uncommon standard shield. It is similar to the Round shield in terms of protection, but has more versatility around offensive maneuvers.</p>",
+      "value": "<p>The Hoplon is an uncommon standard shield. It is similar to the Round shield in terms of protection, but has more versatility around offensive maneuvers.</p><hr /><p>Wielding the <i>Hoplon</i> provides a +2 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
       "chat": "",
       "unidentified": ""
     },

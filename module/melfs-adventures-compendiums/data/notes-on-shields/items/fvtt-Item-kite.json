@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/kite-decorative-steel-claws.webp",
   "system": {
     "description": {
-      "value": "<p>Although a standard type of shield, the Kite is designed to provide better protection than others of its category.</p><p></p><p><strong>Special. </strong>Cover(half). As an action you can stand your ground as a protective element for everything behind the shield. You create a protection area of a line of 15ft. behind the shield, which provide a certain level of cover. This effect also works for spell attacks that have an area of effect of a line or cone.</p>",
+      "value": "<p>Although a standard type of shield, the Kite is designed to provide better protection than others of its category.</p><p></p><p><strong>Special. </strong>Cover(half). As an action you can stand your ground as a protective element for everything behind the shield. You create a protection area of a line of 15ft. behind the shield, which provide a certain level of cover. This effect also works for spell attacks that have an area of effect of a line or cone.</p><hr /><p>Wielding the <i>Kite</i> provides a +3 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
       "chat": "",
       "unidentified": ""
     },
