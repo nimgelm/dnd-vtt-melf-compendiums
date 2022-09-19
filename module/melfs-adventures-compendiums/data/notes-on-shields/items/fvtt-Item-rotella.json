@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/round-wooden-boss-steel-brown.webp",
   "system": {
     "description": {
-      "value": "<p>The simplest form of protection a shield can provide.</p><p>This deflector shield, barely covers the wielding arm,  but its extremely abundant and cheap.</p></p><hr /><p>Wielding the <i>Rotella</i> provides a +1 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
+      "value": "<p>The simplest form of protection a shield can provide.</p><p>This deflector shield, barely covers the wielding arm,  but its extremely abundant and cheap.</p><hr /><p>Wielding the <i>Rotella</i> provides a +1 bonus to your Armor Class. You can only benefit from only one shield at a time.</p>",
       "chat": "",
       "unidentified": ""
     },

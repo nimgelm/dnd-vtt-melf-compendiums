@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/heater-steel-boss-red.webp",
   "system": {
     "description": {
-      "value": "<p>The Fortress is the most common protector shield, mostly used by defensive branches of armies. They provide good protection with an affordable price.</p><hr /><p><strong>Note.</strong> As a protector shield, the wielder must have a Strength ability score of 13 or higher and imposes disadvantage on Dexterity (Stealth) checks.</p><p>Wielding the <i>Fortress</i> provides a +4 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
+      "value": "<p>The Fortress is the most common protector shield, mostly used by defensive branches of armies. They provide good protection with an affordable price.</p><hr /><p>Wielding the <i>Fortress</i> provides a +4 bonus to your Armor Class. You can only benefit from only one shield at a time.</p><p><strong>Note.</strong> As a protector shield, the wielder must have a Strength ability score of 13 or higher and imposes disadvantage on Dexterity (Stealth) checks.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/round-wooden-pointed-boss-steel-brown.webp",
   "system": {
     "description": {
-      "value": "<p>The traditional shield, most soldiers, warriors and fighters use.</p><p>It is a standard category shield, which allows moderate offensive damage.</p><p><strong>Note.</strong> This is the rebranding of the traditional Shield from 5e.</p><hr /><p>Wielding the <i>Round</i> shield provides a +2 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p>",
+      "value": "<p>The traditional shield, most soldiers, warriors and fighters use.</p><p>It is a standard category shield, which allows moderate offensive damage.</p><hr /><p>Wielding the <i>Round</i> shield provides a +2 bonus to your Armor Class. You can only benefit from only one shield at a time.</p></p><p><strong>Note.</strong> This is the rebranding of the traditional Shield from 5e.</p>",
       "chat": "",
       "unidentified": ""
     },

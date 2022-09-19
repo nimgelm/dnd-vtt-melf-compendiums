@@ -5,7 +5,7 @@
   "img": "icons/equipment/shield/pavise-wooden-seahorse-blue-white.webp",
   "system": {
     "description": {
-      "value": "<p>An uncommon protector shield, the pavise provides a bit less direct protection but allows for defensive maneuvers.</p><p><strong>Cover(3/4). As an action you can stand your ground as a protective element for everything behind the shield. You create a protection area of a line of 15ft. behind the shield, which provide a certain level of cover. This effect also works for spell attacks that have an area of effect of a line or cone.</span></span></p><hr /><p><strong>Note.</strong> As a protector shield, the wielder must have a Strength ability score of 13 or higher and imposes disadvantage on Dexterity (Stealth) checks.</p>",
+      "value": "<p>An uncommon protector shield, the Pavise provides a bit less direct protection but allows for defensive maneuvers.</p><p><strong>Special. </strong>Cover(3/4). As an action you can stand your ground as a protective element for everything behind the shield. You create a protection area of a line of 15ft. behind the shield, which provide a certain level of cover. This effect also works for spell attacks that have an area of effect of a line or cone.<hr /><p>Wielding the <i>Pavise</i> provides a +3 bonus to your Armor Class. You can only benefit from only one shield at a time.</p><p><strong>Note.</strong> As a protector shield, the wielder must have a Strength ability score of 13 or higher and imposes disadvantage on Dexterity (Stealth) checks.</p>",
       "chat": "",
       "unidentified": ""
     },
