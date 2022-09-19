@@ -7,7 +7,7 @@
             "name": "quoren"
         }
     ],
-    "version": "0.0.8",
+    "version": "0.0.9",
     "compatibility": {
         "minimum": "10",
         "verified": "10"
@@ -20,6 +20,14 @@
             "system": "dnd5e",    
             "type": "Item",
             "module": "melfs-adventures-compendiums"
+        },
+        {
+            "name": "magic-items",
+            "label": "Magic Items (Melf's Adventures Compendiums)",
+            "path": "packs/magic-items.db",
+            "system": "dnd5e",    
+            "type": "Item",
+            "module": "melfs-adventures-compendiums"
         }
     ],
     "scripts": [
@@ -27,6 +35,6 @@
     ],
 	"url": "https://github.com/nimgelm/dnd-vtt-melf-compendiums",
 	"manifest": "https://raw.githubusercontent.com/nimgelm/dnd-vtt-melf-compendiums/main/module/melfs-adventures-compendiums/module.json",
-	"download": "https://github.com/nimgelm/dnd-vtt-melf-compendiums/releases/download/v0.0.8/melfs-adventures-compendiums-008.zip"
+	"download": "https://github.com/nimgelm/dnd-vtt-melf-compendiums/releases/download/v0.0.9/melfs-adventures-compendiums-009.zip"
 
 }

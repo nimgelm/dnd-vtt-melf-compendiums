@@ -1,0 +1,213 @@
+{
+  "_id": "mac-nos-magic-items-10001",
+  "name": "Shield of All Forms",
+  "type": "weapon",
+  "img": "icons/equipment/shield/heater-steel-crystal-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>This magical shield is very versatile and has three forms, which you can alter by using an action to speak its command word.</p><div><p></p></div><p><strong>Deflector.</strong> The shield transforms into a deflector shield (has the finesse and light properties) which has a bonus to AC of +2. When attacking with this form, it does 2d4 bludgeoning damage and can be Thrown(range 60/120).</p><p><strong>Standard.</strong> The shield transforms into a standard shield, which has a bonus to AC of +3. When attacking with this form, it does 2d6 bludgeoning damage and also has the Versatile (2d8) and Bashful properties.</p><div><p><strong>Protector.</strong> The shield transforms into a protector shield (has the heavy and two-handed property), which has a bonus to AC of +4. When attacking with this form, it does 2d8 bludgeoning damage and also has the Cover(full) property.</p></div>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "MaC:NoS",
+    "quantity": 1,
+    "weight": 15,
+    "price": 3500,
+    "attunement": 1,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "attackBonus": "0",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "2d4 + @mod",
+          "bludgeoning"
+        ]
+      ],
+      "versatile": "3d4 + @mod"
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "simpleM",
+    "baseItem": "",
+    "properties": {
+      "ada": false,
+      "amm": false,
+      "fin": false,
+      "fir": false,
+      "foc": false,
+      "hvy": false,
+      "lgt": false,
+      "lod": false,
+      "mgc": true,
+      "rch": false,
+      "rel": false,
+      "ret": false,
+      "sil": false,
+      "spc": true,
+      "thr": false,
+      "two": false,
+      "ver": false
+    },
+    "proficient": true
+  },
+  "effects": [
+    {
+      "label": "Deflector Form",
+      "icon": "icons/equipment/shield/buckler-wooden-triangle-brown.webp",
+      "origin": "Item.teOh4THEl1VxZvdp",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": true,
+      "_id": "7YfVHzzNFfUPyyDO",
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": 20
+        }
+      ],
+      "tint": null,
+      "transfer": true,
+      "flags": {
+      }
+    },
+    {
+      "label": "Standard Form",
+      "icon": "icons/equipment/shield/heater-steel-spiral.webp",
+      "origin": "Item.teOh4THEl1VxZvdp",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "T7mu9R9r9dpFrlcn",
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "mode": 2,
+          "value": "3",
+          "priority": 20
+        },
+        {
+          "key": "system.bonuses.weapon.damage",
+          "mode": 2,
+          "value": "1d4",
+          "priority": 50
+        }
+      ],
+      "tint": null,
+      "transfer": true,
+      "flags": {
+      }
+    },
+    {
+      "label": "Protector Form",
+      "icon": "icons/equipment/shield/targe-steel-blue.webp",
+      "origin": "Item.teOh4THEl1VxZvdp",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": true,
+      "_id": "Skqw9Lp5uV53IAbL",
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "mode": 2,
+          "value": "4",
+          "priority": 20
+        },
+        {
+          "key": "system.bonuses.weapon.damage",
+          "mode": 2,
+          "value": "1d4",
+          "priority": 20
+        }
+      ],
+      "tint": null,
+      "transfer": true,
+      "flags": {
+      }
+    }
+  ],
+  "flags": {
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.2",
+    "coreVersion": "10.285",
+    "createdTime": 1663599005895,
+    "modifiedTime": 1663604870399,
+    "lastModifiedBy": "Xc6iss6TbYCuq8ah"
+  }
+}
